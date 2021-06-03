@@ -9,4 +9,4 @@
 <p>You can reach me on <a target="_blank" href="https://instagram.com/benqasas">Instagram</a>📩</p>
 <p>For serious inquiries you can send me an <a href="mailto:benas.kucinskas.org@gmail.com">email</a>📩</p>
 <p>Located in Northeast Europe, Lithuania</p>
-<p>Builder and owner of <a href="https://hyperglare.netlify.app">this site</a>
+<p>Builder and owner of <a href="https://hyperglare.netlify.app" target="_blank">this site</a>
