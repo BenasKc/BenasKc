@@ -6,5 +6,6 @@
 <p>Looking forward to learn <b>Assembly</b> programming language, <b>Cyber security aspects</b> and deepen my knowledge in all skills I already have.👾</p>
 <p>Main areas of interest: <b>Cyber security</b>, <b>Software developement👨‍💻</b></p>
 <p>Speaking of not that nerdy skills, I can fluently communicate in <b>English</b>, <b>Russian</b> and <b>Lithuanian</b>, I have also graduated from Arts school🌍🖍</p>
-<p>You can reach me on <a href="https://instagram.com/benqasas">Instagram</a>📩</p>
+<p>You can reach me on <a target="_blank" href="https://instagram.com/benqasas">Instagram</a>📩</p>
+<p>For serious inquiries you can send me an <a href="mailto:benas.kucinskas.org@gmail.com">email</a>📩</p>
 <p>Located in Northeast Europe, Lithuania</p>
