@@ -8,4 +8,4 @@
 <p>You can reach me on <a target="_blank" href="https://instagram.com/benqasas">Instagram</a>📩</p>
 <p>For serious inquiries you can send me an <a href="mailto:benas.kucinskas.org@gmail.com">email</a>📩</p>
 <p>Located in Northeast Europe, Lithuania</p>
-<a href="https://www.linkedin.com/in/benas-ku%C4%8Dinskas-376045212/">LinkedIn<a>
+<a href="https://www.linkedin.com/in/benas-ku%C4%8Dinskas-376045212/" target="_blank">LinkedIn<a>
