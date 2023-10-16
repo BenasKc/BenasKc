@@ -6,4 +6,4 @@
 <p>Welcome to my humble github page!</p>
 
 
-<a href="https://www.linkedin.com/in/benas-ku%C4%8Dinskas-376045212/"https://www.linkedin.com/in/benas-ku%C4%8Dinskas-376045212/>LinkedIn</a>
+<a href="https://www.linkedin.com/in/benas-ku%C4%8Dinskas-376045212/">LinkedIn</a>
