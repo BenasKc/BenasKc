@@ -1,11 +1,9 @@
 (https://www.linkedin.com/in/benas-ku%C4%8Dinskas-376045212/)
 <h1>👋Hello!</h1>
-<h3>I am Benas Kučinskas, aka @BenasKc </h3>
-<p>Currently learning in High School, aspiring to be a <b>programmer</b>!💻</p>
-<p>I have the basics(in some of them already proficient) of <b>C++</b>, <b>C</b>, <b>Python</b>, <b>SQL </b>(and <b>MySQL</b>), <b>Javascript</b>, Web technologies such as <b>Node.js</b> and its frameworks such as <b>Vue.js</b>, <b>React</b></p>
-<p>Looking forward to deepen my knowledge in all skills I already have</p>
-<p>Main areas of interest: <b>Software developement</b>, <b>Mathematics</b> and <b>Chess</b>.</p>
-<p>You can reach me on <a target="_blank" href="https://instagram.com/benqasas">Instagram</a></p>
-<p>For serious inquiries you can send me an <a href="mailto:benas.kucinskas.org@gmail.com">email</a></p>
-<p>Located in Northeast Europe, Lithuania</p>
-<a href="https://www.linkedin.com/in/benas-ku%C4%8Dinskas-376045212/" target="_blank">LinkedIn<a>
+<h3>I am Benas</h3>
+<p>Most of my experience is with websites, particularly with node.js and SQL DBMS such as MySQL and Microsoft SQL server.</p>
+<p>I occassionally solve some leetcode / codeforce exercises, some math problems and other fun logical whatnot.</p>
+<p>Welcome to my humble github page!</p>
+
+
+<a href="https://www.linkedin.com/in/benas-ku%C4%8Dinskas-376045212/"https://www.linkedin.com/in/benas-ku%C4%8Dinskas-376045212/>LinkedIn</a>
